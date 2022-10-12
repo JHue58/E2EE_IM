@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "353599282523",
+    "project_id": "e2eeim",
+    "storage_bucket": "e2eeim.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353599282523:android:e24fd88f830d7f2a0d0e7e",
+        "android_client_info": {
+          "package_name": "com.tencent.qcloud.tim.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353599282523-49utpeas60hq8ou86trp6c82fgjtd5i6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7KZuTwXkkv_nEL9e3_ioZgeznoiZESBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "353599282523-49utpeas60hq8ou86trp6c82fgjtd5i6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
